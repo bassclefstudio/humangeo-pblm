@@ -3,9 +3,6 @@ title: "Extensions"
 permalink: /extensions/
 excerpt: "Learn more about languages and the digital world"
 date: "2021-06-15T19:00:00-05:00"
-header:
-  overlay_color: "#47af47"
-  overlay_filter: 0.25
 toc: true
 ---
 
