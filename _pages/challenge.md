@@ -1,3 +1,16 @@
+---
+title: "Challenge #1"
+excerpt: "Preserving an Indigenous Language"
+header:
+  overlay_color: "#47af47"
+  overlay_filter: 0.25
+  caption: "© 2021 https://www.halcyonmaps.com/"
+  actions:
+    - label: "View Challenge"
+      url: "{{site.baseurl}}/challenge"
+toc_enable: true
+---
+
 # Task
 Examine the approaches that individuals and organizations have taken in recent years to spread their indigenous languages on the Internet and on computers and devices.
 

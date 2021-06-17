@@ -1,3 +1,23 @@
+---
+layout: single
+permalink: /
+classes:
+  - landing
+  - splash
+  - wide
+author_profile: true
+title: "Home"
+excerpt: "Welcome to the learning module!"
+header:
+  overlay_image: /assets/banner.jpg
+  overlay_filter: 0.25
+  caption: "© 2021 https://www.halcyonmaps.com/"
+  actions:
+    - label: "View Challenge"
+      url: "{{site.baseurl}}/challenge"
+toc_enable: true
+---
+
 # Abstract
 Indigenous languages face significant challenges permeating into the world of technology and the Internet. Not only are there limited numbers of speakers, but the lack of infrastructure on computers to deal with many languages, even those that do have written forms, leads many speakers to resort to learning secondary languages (often English) in order to participate on the global stage.
 
