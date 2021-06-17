@@ -178,9 +178,9 @@ defaults:
       path: ""
     values:
       layout: single
-      author_profile: true
+      author_profile: false
       show_date: true
-      read_time: true
+      read_time: false
       comments: # true
       share: false
       related: false
