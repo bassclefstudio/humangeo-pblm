@@ -61,7 +61,7 @@ Your project should specify the following:
  - What groups inside or outside of the community does this project serve - students? working adults? linguists and outsiders? Why is this information important to them?
  - How would you most effectively present the language's cultural and linguistic connections? How would you protect it against interference or the tests of time?
 
-> **A brief mock-up** (drawing, slide show, or description) of the project should show why you think it's a worthwhile effort to help preserve your chosen language in this way. Keep in mind the continued cost of whatever plan you propose!
+> **A brief mock-up** (drawing, slide show, or description) of the project should show why you think it's a worthwhile effort to help preserve your chosen language in this way. Keep in mind the continued cost of whatever plan you propose! You are presenting this brief proposal to both the community of people whose language it would help document *and* the people who have been delegated to carry out your proposal (programmers, linguists, etc.).
 
 # Decision
 A proposal is made by an international consortium to allow for the learning and development of AI-based translators which have been shown to allow the translation of and between indigenous languages.
