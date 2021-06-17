@@ -1,0 +1,13 @@
+# .gitignore for Jekyll blogs
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+.bundle/
+
+# Visual Studio and VS Code
+.vs/
+.vs-code/
+
+# lock file.
+Gemfile.lock
